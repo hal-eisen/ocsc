@@ -1,0 +1,334 @@
+
+
+Basic Cruising II Instructor Syllabus
+
+
+
+Day 1:
+
+AM
+1000 Bay Navigation Lecture
+1115	Cruise to Clipper Cove
+1230	Anchoring
+
+PM
+1400	SPOB -from all points of sail
+
+Day 2:
+
+AM
+1000	Explanation of evaluation process
+1030 Genoa Use/Sail Change
+1100 Heaving To/Reefing while Hove To
+1200 Review of all Skills in the Prac. Eval
+
+PM
+1300 Practice Evaluation
+	
+
+I. Basic Cruising II, Day 1
+
+0945
+Review your class cards from the students' previous two days of Basic Cruising.  If there are two boatloads of BC 2, the second instructor should:
+* Go to the boat and ask the students to meet you in the classroom for a lecture at 10 am
+* Set up the lunches for Clipper Cove.  
+If yours is the only boat, before setting up your Navigation Lecture, check in with a customer service rep about setting up the lunches and check in with the students yourself.
+Pull out a set of nav tools and laminated chart for each student;  (you will use a chart board and grease pencil for the actual trip to Clipper Cove)  Second instructor should organize a chart board, hand bearing compass and grease pencil for each BC 2 boat.
+
+1000: Lecture: Use of Navigation tools - Plotting - Three Bearing Fix
+A. . Plotting Tools and Their Uses (15 minutes)
+Describe what plotting tools are used for:
+* Measuring & Transposing distances accurately.
+* Transposing lines at certain angles from the compass rose to other parts of the chart and visa versa.
+* Explain that dividers measure distance and rules measure direction.
+
+B. DIVIDERS - DEMONSTRATION AND STUDENT PRACTICE  (15 minutes)
+* Dividers    	
+Demonstrate its use for measuring distances and transposing known distances to chart.  Teach students at this level to use the mile scale in the legend, rather than the latitude scale.  It'll be simpler & quicker.
+
+Have students measure the following distances with their dividers. 
+* Distance from Berkeley to the center of the Golden Gate Bridge (8nm)  (show them how to "walk" dividers) 
+* Length of the Berkeley Pier (2.2nm)	
+* Distance from the end of Berkeley Pier to the entrance to Clipper Cove (1.7nm)
+
+C. Paralel Rulers, etc. - Demonstrations and Student Practice (20 minutes)
+* Parallel Rulers
+* Demonstrate use of parallel rulers.
+* Stress the importance of plotting each bearing twice to reduce mistakes.
+* Explain the danger and risk of getting a bearing reading 180 degrees opposite.
+* Explain that your students can use parallel rulers to solve two basic problems: where they are and where to go.   
+
+1. Finding Position
+Have students plot the following bearings (telling them to be careful of using reciprocals) in order to determine their location. (Red Buoy #6 Fl R 4 sec BELL)
+* 336°m to Southhampton Shoal light
+* 220°m to Can '3' off of Point Blunt
+* 100°to Day Marker at end of Berkeley Pier
+
+2. Plotting a Course (Where to go)
+Have students plot a course from 'X' Buoy to the entrance to Clipper Cove, around the end of the pier, (170 deg mag. to end of Berkeley Pier then 160 to big pier at entrance to Clipper Cove) then explain about and ask for the course back to Berkeley Marina. (340 to pier, 50 to Berkeley)
+Discuss how the following would affect the results of their intended course
+* Current--near the shipping lanes, either pushing north or south
+* Leeway--usually 3-5 degrees depending on the sailor and conditions
+* Wind on the Bow--Show how the course would need to be calculated for tacking angles, so that they would clear the pier.
+
+DO NOT GET INVOLVED WITH CALCULATING CURRENT OR LEEWAY--LEAVE IT FOR THE STUDY LECTURES OR COASTAL NAV.
+
+1115:  Cruise to Clipper Cove
+
+While underway on the cruise, you must accomplish the following:
+
+A. All students must steer by the compass for five minutes. 
+ (Important: When coaching them to have them use experimentation as the best way to acquire a steady hand at the helm steering by compass.)
+
+Emphasize:
+Students should steer by sail trim or landmarks and check the compass every few seconds.  If they stare at it they will not maintain a straight course.  Also, they should allow for a couple of degrees to either side of the intended course to steer, so they aren't shoving the tiller back and forth, over correcting.
+B. Each student completes a Three Bearing Fix.
+Use one of the laminated chart kits that are provided for training.  Standard OCSC procedure is to take and record on the edge of the board all three bearings.  Those bearings should be of objects that are not close together in degrees and that closer objects are easier to capture bearings on than far objects.   Then each bearing is plotted on the chart board to create the three cornered hat.  Use your judgment to determine whether the triangle of location is small enough to qualify as a safe and dependable fix.  If the three cornered hat is a mile from tip to tip, they have obviously done something wrong, and you should have them check their plots first, and, if the mistake was not there, have them re-take three bearings.
+
+1230  At Treasure Island-Clipper Cove
+	Clipper Cove offers some anchoring challenges for you and your students.
+Emphasize:
+* There is a cable on the bottom, fouling many anchors over the years    
+* The whole Southern half of the entrance is too shallow and doesn't look so, except on the chart!!!!  Stay to the North third of the entrance-point out the shoal to your students on the chart and show them how inviting that area looks by comparison.
+
+Below is a narrative of teaching the anchoring drill by Ray Wichmann.  Read it a couple of times, then highlight those areas that will require review the night before you teach this course.
+
+1. ANCHORING
+
+A. Arriving at an unfamiliar harbor
+
+When you arrive at Clipper Cove you will have to decide whether to sail up into the cove or lower your sails and motor in.  If the St. Francis Yacht Club dinghy program is in full swing, it will be much more convenient to motor in. Otherwise it is fun and a nice challenge for your students to short tack (assuming a west wind) between the old Navy pier to the north and the shallows (please examine your chart before entering this cove for the first time!) to the south.  
+At some point you will need to transform the sailboat into a powerboat.  Center the jib and pull it down and secure it in the usual manner.  Sailing off the wind, if possible, is the easiest course on which to drop the jib. Then start the engine, come head to wind, douse the main and seafurl it.  Your students will sometimes be confused because of the new location.  (Remember, they have only done this in the fairway at the Berkeley Marina.)  Remind them of the drill and explain to them that the only thing that has changed is the scenery.  
+
+B. Qualities of a good anchorage
+
+Explain to students that there are three attributes of a good anchorage.  Those are the big view-choosing a harbor.  We chose Clipper Cove because it generally scores high in all three areas, except for wind protection. Mention that, after anchor prep, within the anchorage, you will choose a spot to anchor, which is different than an anchorage.
+* Proper bottom for our anchor
+* Protection from wind and swell
+* Room to swing
+* Depth between 15-25 feet at all tide levels (larger vessels with more rode or chain can have deeper anchorages)
+
+
+C. Preparing the boat to anchor
+
+Now explain to your students that a proper job of anchoring doesn't just happen and that it will take some time to get the boat and crew prepared.  The anchor rode will have to be uncoiled and faked down on the foredeck, and each of the crews' jobs described before we are ready to deploy the anchor.   Have one of your students drive the boat slowly about the cove while this setup is taking place.  Caution them about driving too close to an already anchored boat because of the danger of snagging their anchor rode with our keel.
+Have another of your students open and secure the lid of the starboard seat locker with the snap hook to the lifeline and remove the anchor rode, leaving the anchor and chain in the locker.  Uncoil it and find the bitter end.  Hand the bitter end to the third student who will take it forward to the bow  (outside the shrouds), pass it over the top of the bow rail, bring it back into the boat through the chock, and tie it to the base of the mast with a round turn and two half hitches. 
+The student at the mast should then fake the entire rode in a series of large figure-8s across the boat directly in front of the mast white the student in the cockpit pays out the line.  This way we ensure that an errant bight of line doesn't find its way over the side and into the prop.  However, leave the starboard catwalk free of line so that there is room for crew to traverse the area without stepping on the anchor rode.  The anchor and chain can be left in the seat locker until the tackle is ready for deployment.  
+
+D. Choosing the anchoring spot within the anchorage
+In addition to anchorage requirements, a spot within the anchorage must be chosen.  It is good to drive about in the anchorage, pointing to and discussing the values of different spots before choosing one.  Let students debate the relative merits of one over the other.
+* Emphasize the following:
+* Proper depth at all anticipated tide levels
+* Room to Swing - emphasize that boats swing differently and the optimal is twice the distance of both boats' swing radius.  Usually not possible, but important to provide as much room as possible
+* It is poor seamanship and potentially dangerous to anchor close upwind of previously anchored boats.
+* Generally, you must choose a spot for the anchor that is further upwind than you might think . . . Sailors often underestimate the distance downwind they will drift before fetching up on the rode at the proper scope.
+
+E. Scope and math! OCSC protocol for choosing amount of rode
+Have this conversation before lowering the anchor.  Trying to explain scope while setting the anchor is awkward.  
+Scope is the ratio between water depth plus freeboard at the bow and the amount of rode deployed.  If anchoring for longer periods of time, any anticipated rise of tide would have to be factored in also.  Millennia of experience have told us that an acceptable minimum for an unattended vessel is 7:1.  Anchoring for lunch, with us sitting in the cockpit to see if we drag, that can be shortened to 4or5:1.  Let's do the math:
+* Water depth between 15 and 20 feet, (call it 17 feet)
+* J/24 freeboard at the bow 2-3 feet.
+* Total: 20 feet x 4 or 5 = 80 - 100 feet of rode to be deployed.
+Here is an easy way to determine how much rode is being deployed.  There is approximately 30 feet of chain and rode between the anchor and the figure 8s, so we need 50-70 feet more to be deployed from the pile of figure 8s.  Since human height is equal to human span, divide 60 by either 5 or 6 (whichever is closer to that student's height in feet) and deploy that many of their spans.  
+F. OCSC anchoring steps on the j24 and other small boats
+
+Now describe the anchoring process, then execute the first iteration with each student at a position.
+* The driver will shift the engine into neutral and bring the boat to a complete stop at the desired location with the wind slightly on the starboard bow.
+* This will cause the bow will blow down to port (remind them of the emergencies drill in BC1) and the anchor rode will not go under the boat with the risk of snagging the keel, rudder, or prop (in descending order of preference).  If we were to stop directly head to wind, we can not control which way the bow will go. 
+* When the bow falls off, the anchor and chain will be lowered hand over hand to the bottom by one student while the other pays out the rode from the figure-8s at the base of the mast.  The rode should be payed out as needed; i.e. the rate at which the boat moves downwind away from the anchor.  We do not want to pile the rode on top of the anchor as it might snag on the crown of the anchor and not allow it to set.  Nor do we want to drag the anchor prematurely away from where we placed it.
+* If there is wind, allow it to move the boat, there is no need to use the engine.  The bow will fall off and the boat rotate to a broad reach as it moves downwind, but this is not a problem.  Just pay out the rode until proper scope has been deployed, cleat the rode to the bow cleat, and the bow will swing back up into the wind, an indication that the anchor is holding.
+* When the bow of the boat has come back into the wind, the driver shifts the engine into reverse and gently back against the anchor, gradually increasing power to about half throttle. This will straighten the rode, bury the anchor into the bottom, and simulate a heavy wind load.  This procedure is commonly known as "setting the hook".   (If there is no wind, have the student at the helm back slowly while the anchor and rode are being deployed.)
+* Then teach your students to establish a range by looking athwartships and noting the alignment of two objects ashore.  (they can often be confused by this initially) If that alignment remains constant while setting the hook you can be reasonably sure the anchor is holding. We will then throttle down slowly, shift the engine into neutral and shut it off.  Answer any questions regarding the anchoring procedure. 
+
+G. Anchor recovery
+
+Now it is time to recover the anchor.  Describe the procedure and each student's role before beginning. The student who lowered the anchor will pull it back onboard while the student who paid out the rode will refigure-8 it.  Only one student will go to the bow, and the other will remain at the shrouds.  Too much weight at the bow tends to lift the engine out of the water.  It is usually possible to recover the anchor without the use of the engine, although your students will want to motor up in an effort to help.  Explain the danger of overrunning the anchor and getting the rode wrapped in the prop.  Also, it is likely that at some point they will have to do this without an engine and it is a good idea to find out now that it is easier than they might think.  Quite often, just pulling manually will cause the boat to override the anchor if they do not watch for it.   The student at the engine will stand-by with engine idling in neutral, ready to control the boat after the anchor is broken out of the bottom and brought aboard.  
+Don't try to pull the chain through the bow chock.  Rather, have the student recovering the anchor reach over the bowrail, grab the chain and carefully work their way aft to the shrouds and hang the anchor on the lifelines.  Have them rinse off as much mud as possible before bringing the anchor aboard.  Often the weight of the chain (still dangling over the side) will try to pull the rode back into the water.  Warn the student tending the figrue-8s to watch for this.   As soon as the anchor is stowed on the lifelines, have that student lift the chain aboard and lay it along the toerail.  Once all lines are out of the water the student at the engine will shift into gear and motor about the cove while you answer any questions.  
+
+H. Rotations and reiterations
+
+Then, switch student positions (anchor handler to driver, driver to line tender, line tender to anchor handler) and prepare to do it again.  In all, anchor three times, so that each student gets to do each job.  After the anchor has been lowered for the third time, we will stop and eat lunch; then recover for the last time.  The anchor and rode will then be stowed back into the starboard seat locker by reversing the process we used to set it up.  Once it is all stowed away, we will raise sail (inside or outside the cove, whichever is safer and more convenient), and head for home.  
+Answer any questions regarding the plan for anchor recovery and then recover the anchor.  
+
+Hints:
+
+The round turn and two half hitches is superior to the bowline for securing the bitter end of the anchor rode to the mast because if you ever have to perform the "let's get the hell out of here maneuver", it can be untied under load.
+* Explain to your students the difference between a deck stepped and a keel stepped mast and why you should not secure the bitter end of an anchor rode to the base of a deck stepped mast.  In such cases use a stanchion base or an unused bow cleat.
+* Remind your students that anchors are not thrown but lowered.
+* Caution your students about walking around the boat carrying the anchor.  Its 8-pound weight changes your center of gravity quite a bit and if it were to be dropped it would damage the boat
+* Caution your students about putting their muddy hands onto our nice white sails.  Have each student rinse their hands in the bay after they have finished their anchor handling chores.
+You can omit "setting the hook" until you deploy the anchor for the third and final time just prior to eating lunch.  This saves your students some physical exertion.  
+
+1400:
+ Further Gybing, Quick Turn (fig 8) SPOB Practice, and general sailing practice while returning to OCSC.
+
+As you leave the harbor, tell your students that you will use the trip back to cover more gybing, perhaps heavy weather downwind steering in waves, and, of course, more person overboard recovery maneuvers, especially (and conveniently during westerlies) from broad reaches.
+After turning the corner at the end of the Pier, consider having each student perform two gybes, spend five minutes just steering down waves, and perform two SPOBs from a broad reach before arriving at OCSC
+This is a time for the instructor to really take a back seat, allowing students to make mistakes and only critiquing the performance after the drill is complete, in specific relation to the standard for a certification quality maneuver.
+
+1630
+Return to the dock.  Review the topics of the day with all students so they remain fresh in their minds and describe the itinerary for the final day.
+De-brief each student about individual strengths and weaknesses specifically related to the evaluation tomorrow.  Give them each an interim instructor evaluation form, ask them to turn them in to the front desk, remind them to be at the boat by 915 to 930 for boat set up, and bid them adieu.
+
+1700
+Fill out your class cards and plan the use of your review time tomorrow to best serve the needs of this particular group.  If you have an unusually slow student in your class who will probably not be able to certify on Day 4, discuss it with the club manager for the day, so he/she is prepared if some smoothing of ruffled feathers will be called for.  Also, it can help to bounce ideas for solving thorny learning problems that students have off of someone else.
+
+1715: End of Day
+
+II. BC II Day 2
+This day has a good amount of new information but is mainly for review followed by a practice evaluation to prepare students for OCSC Bay Sailing & Basic Cruising certification through US Sailing.  The students will go on to complete a formal Practical Evaluation after this course.
+
+0945
+In addition to your class cards, pick up an evaluation form to review with your students.  Go down to the boat to check on the genoa set up and see if there are any questions.
+
+1000
+Start the class on the boat and review the itinerary for the day: Genoa Use/Sail Change, HeavingTo, Reefing while Hove to, Quick Review of individual weaknesses, and Practice Evaluation.  
+Then go over the Evaluation sheet with them so they know what does and doesn't happen in the evaluation.  Some things required in the certification were covered sufficiently during the syllabus to allow us not to revisit them during the evaluation:  Plotting courses, fixes, anchoring, close quarters sailing and other relatively straight forward and time consuming procedures.  
+
+Itemize the topics that will be evaluated:  
+* 
+* slip departure
+* crew briefing
+* marina procedures
+* docking
+* backing up under power
+* tacking, gibing
+* points of sail
+* sail trim, person overboard recovery
+* heaving to
+* reefing
+* applying rules of the road
+* collision course recognition and avoidance
+
+Then head out on the water.
+
+1030:
+A. Genoa Sailing/Sail Change
+	Assign one student to be in charge of marina procedures.  Before the genoa is raised, explain the special care required in using a genoa:
+* Limited visibility
+* Skirting the genoa
+* Difficult to tack, catches on shrouds and mast, jumps outside the lifelines
+* Moves center of effort aft
+* Keeping it off the spreader
+* Tacking slowly to allow enough time to skirt the genoa
+* Luffing and jumping the foot inside the lifelines-danger of unintentional tack.
+Divide the crew into three positions:  Helm, Trimmer, and Middle (in the companionway). Explain each person's job during the tack:
+Helm - 	Tack slowly, watching foot of the jib to keep it from jumping the lifeline
+Trimmer -	Release just as the genoa begins to luff, sheeting in quickly without back-winding the sail
+Middle - 	Overhaul the old working sheet-skirting genoa if necessary
+
+Have each student perform three tacks.  Explain to the students that we are not looking for mastery of this skill, which takes lots of practice.  Rather it serves as an introduction to something they can practice on their own later.  If they can explain the 7 concerns of genoa use listed above and outline the crew responsibilities, that is enough.
+                        
+1. On the water demonstration: 
+Sailing and tacking the genoa successfully requires a new approach, timing and teamwork. Remember, however, this is Basic Cruising, not Basic Racing! 
+* The helmsman needs to tack slowly, paying careful attention to the needs of the crew as he/she attempts to bring the genoa around, stopping and starting the turn as necessary when the jib gets caught on the shrouds and mast.
+* While sailing, the visibility is very limited.  Ensure that each student gets a good feel for how to keep a proper lookout. (point out importance of regular traffic reports, having crew move to lee stern quarter to look behind, steering from leeward in light air, altering course to expose the blind spots to the lookout's vision)
+* The crew needs to carefully prepare the sheets, reducing the chance of hockles forming (those cute little curlicues that love to snag at the blocks).
+* Any form of friction reduces the chance of a successful tack. The sheet needs to be completely freed from the old working winch much earlier than when tacking the working jib; the sheets need to run free, no hockles; the sheets need to be unencumbered of "Foot and Butt" cleats.
+* The genny will almost always end up outside the lifelines. Have the students "Luff and Jump" to bring the foot inside or have the middle crew skirt the foot
+* Be careful to avoid an accidental tack/heave-to.
+
+2. Heavy air dockside demo option: 
+* The genoa can only be raised in wind under 12 knots or so, if the wind is over that prior to leaving the dock, do the demonstration at the dock side. Move the boat sideways in the slip to maximize a simulated close-hauled position, raise the genoa. 
+* Help them appreciate the severe lack of visibility by having each of the students sit in the driver's seat. Demonstrate how to steer while sitting on the leeward side. 
+* Emphasize the need to watch the spreaders when grinding to keep the sail about 2-3 inches off the spreaders and the shrouds, then grind it in too tightly to demonstrate the same. Explain how the shrouds could saw straight through the sail in a matter of minutes. 
+* Let the genny slip outside the lifelines, grind it tightly against the stanchion, go forward and skirt it in. Explain the "luff and jump" technique of bringing the sail inside the lifelines. 
+* Since you can't teach them how to tack at the dock, drop the sail and secure it on the bow. The next step is sail change under way, so get outside under main alone and change down to a more appropriate jib.
+
+3. OCSC Standard
+"A useful target for tacking with the genoa up is to tack slowly enough that the sail may be sheeted before it jumps the lifelines, yet fast enough that all headway is not lost."
+
+B. Sail Change 
+After 3 tacks each or at the time the breeze hits over 10 knots (white caps beginning to form), change down to a smaller headsail, going with the 80% if it promises to be windy, and the 100% if it looks more moderate.   One sail change is enough.
+	Helm--keeps boat on course
+	Trimmer--handles sheets, halyard
+	Foredeck--goes forward to handle sail
+
+* 	1.  T&F-Lower sail
+* 	2.  F-Remove and secure halyard to pulpit
+* 	3.  F-Unhank and carry sail below, leaving sheets attached 
+* 	4.  T-- Remove and re-reave sheets, attaching one of them to the new clew before bringing the new sail up.
+* 	5.  M--Rig new headsail (tack first, then hanks, halyard)
+* 	6.  T-Adjust fairleads, hoist and trim.  
+
+C. Heaving  to
+When describing this maneuver, mention all of its potential uses:  grabbing something below, reefing the sail, tending to a sick or injured crewmate, etc.    Because the J-24 is a challenging boat for this maneuver, it is a great teaching tool and heaving to can be done dependably with a little practice.  This drill must be done with two students, in accordance with our mandate to make our skippers competent to double-hand.
+
+Start by having students bring the boat head to wind and seeing how long they can keep the bow into the wind until they start to lose way.  It is good general practice and helps them remain patient while slowing the boat down during a heaving-to maneuver.
+
+1. Emphasize:
+Taking a J-24 from full speed to comfortably hove-to requires that alot of the speed (momentum) be burned off.  It also requires some patience on the part of the skipper as the boat settles down, once the jib is backed and the tiller is to leeward.
+If the boat is moving too fast, the boat may re-tack, or at least oscillate back and forth before settling down.  Point this out to students and show them ways of dealing with it.
+
+2. OCSC Standard
+"Our goal in heaving to is to position the boat such that the jib is fully aback, the main is just in from luffing, the keel is stalled and the helm may be lashed hard to leeward without the boat tacking or gybing."
+
+* Skipper--"Prepare to heave to."
+* Skipper-- steers close hauled.
+* Jib Trimmer-- Sheets jib in tight.  Foot should be almost straight.  
+* Trimmer--"Ready."
+* Skipper--"Heaving to"
+* Skipper-- slowly heads up to just past head to wind and kills as much speed as possible.  Then tacks through to close hauled on opposite tack, luffs main.  If the main is left cleated, the boat will be knocked down in a strong breeze.  EMPHASIZE THIS POINT REGARDLESS OF THE WIND STRENGTH IN WHICH YOU ARE PRACTICING.
+* At the first moment that the bow swings downwind, the skipper MUST move helm ALL THE WAY TO leeward and "secure" it by holding it with their foot.
+* Mainsheet is eased and trimmed to settle boat down and adjust the angle at which the boat lies to the wind.
+* To get under way: Sit on the windward side of the boat, bring the jib to leeward, trim the main, center the helm and off you go. Or, trim the main and wear about.
+
+Heaving to will require practice.  Demonstrate the drill a few times then have each student heave to at least three times.  
+
+3. Important notes on heaving to:
+* You are accorded no special privileges while hove to.  
+* Obey all right of way rules.
+* A boat which is hove to is not anchored.  In high winds it may be making several knots.  Show students how to determine roughly the course and the speed of the boat by looking at the swirls which the keel makes.
+* Students may find it easier to understand why the boat stays hove to if you explain how the backwinded jib balances the main/rudder.  It will also help them to remember "tiller to leeward."
+* PROPER WAY TO TEACH THE TACK---The driver un-cleats but holds tension on the mainsheet, turns the boat rapidly head to wind, stops the turn when the jib is backed, drops the mainsheet, and waits for the boat to be blown down. As the boat is falling off, gently place the tiller to leeward. If the student insists on changing sides, have them wait until the boom is well on its way to leeward, otherwise, simply have them put the tiller behind their backs.
+
+Have students tuck in a reef and shake it out while hove to - If their reefing skills are reasonable, one attempt for the group should be enough, but if the reefing itself is sloppy, this would be the best time to drill them on it.
+
+1200:
+Practice on individual weakness-Reach agreement w/students on weaknesses	
+This time is to be treated just like a review session with the specific intent to prepare your students for the evaluation.  Cover areas of mutually agreed upon weakness first, rotating students often.  Then work on areas of individual weakness, taking care to minimize time loss moving between motoring and sailing.
+
+1300 LUNCH
+During lunch, review with students how the practice went and in what maneuvers students were performing to the standards, in which areas not and why.  Ask for questions concerning the practice evaluation.  If anyone expresses reservations about being prepared for the afternoon, encourage them that the value of performing in that format is very high regardless of whether they perform to standards yet or not.  It is great practice and will give them a comprehensive picture of their skills in all the important areas.
+Rarely, you may have three students that feel (AND ARE) unprepared to go through even the practice evaluation.  In that case, you can put their minds at ease by offering to turn the afternoon session into more guided practice to remove any unnecessary tension and to make the training more suited to their current skill level.  (Be sure to leave detailed notes for the next instructor)
+If some are ready and some not, simply ask the weaker student(s) if they would prefer to continue to receive additional guided practice or join the others.  Then give them their normal turns at the helm, but give them guided practice with their time, instead.
+(NOTE:  The standards for each skill are not repeated here as they are described elsewhere in the syllabi for the two levels.) 
+
+1330 RETURN TO THE BOAT-PRACTICE EVALUATION
+Start by explaining that you will try to only give advice or critique after a maneuver is done, to give students the sense of what it is like in an evaluation, and also to give them a chance to think through some of the procedures and responses that they need to demonstrate.  (Then, be sure you do it......) 
+This is a critical phase of the student's training.  Most students will be nervous no matter what, but you must do your best to keep them relaxed and confident, by staying upbeat, supportive and reminding them where necessary that you are rooting and cheering for them.  Reassure them that they don't need to perform perfectly, just safely and dependably, and give some parameters for where an instructor can be flexible in judging skills, and where things need to be done the right way all the time.  (eg-unintentional gybe is hard to be flexible on, but a premature gybe while sheeting in the main in preparation can be forgiven if several subsequent gybes are done well.)
+ Start the process off by quizzing them on a good crew briefing.  Ask for important topics to cover, ask why they might cover those things and give some hints if some are left out.  If you ask each student to recite a crew briefing, the briefings  will be agonizingly long, and not a real test of the students' knowledge.
+Move through the rest of the practice evaluation: motoring done as a package followed by sailing.  
+For marina procedures, two students should hoist and douse, one as skipper one as crew; one should watch and critique.  Involve all students in the de-brief of a marina departure or return.  Emphasize that they will have only two candidates on the P.T.
+Since you have seen them all handle marina procedures during the two days, you can decide whether having them perform another exit and entry will be required.  If all seem to be doing well at the time you return to the marina, AND you aren't too confident of their individual abilities to handle marina procedures, throw another exit and return at them instead of returning to the dock, so that all three students have an opportunity to demonstrate their skill to you and themselves.
+As a general guide, you are looking for dependable, repeatable skills, not perfect sailing.  If one overboard recovery drill goes awry, and the student can put together good ones in the next four of five attempts, for instance, then they have demonstrated competence.  However, if two or three go bad and the student squeaks out one relatively successful one, they really need some more practice to be safe and confident.  Students should try one while sailing up or across the wind and one from a broad reach.  
+After each maneuver or procedure attempt, ask the student to self-evaluate.  Self evaluation sometimes points out small misperceptions that can interfere with otherwise good skills.  Be careful to validate their answer, before going on to explain in more detail how their performance measured up to the standard.  If you simply disagree with them or use the 'N' word (no), you can create a little embarrassment or animosity where none existed.  
+
+An example might be: "You're right, the boat was very difficult to slow down and having the mainsheet in too tight was a factor.  In addition, I noticed that your angle of approach was pretty close to a beam reach, and even with the mainsheet out all of the way, it will be very difficult to slow the boat down." 
+
+1630:  Return to Dock
+Take each student aside and de-brief them individually:
+* Should their next step be the test or review?
+* If the test, describe areas to focus on for the test. Answer any questions they may have about the test.
+* If review, explain why and discuss specific strengths and weaknesses. It is not enough, for example, to say "more work on POBs". Rather, the specific problems should be addressed:  "Though the rest of the drill goes smoothly, you have some difficulty determining when to head up to a close reach."  You should discuss all of these in relation to the Practical Evaluation.  
+* Be POSITIVE, POSITIVE, POSITIVE!!!!!!!!!!!
+* Be sure to ask each student if they understand completely what you discussed above. Ready?  If not why not?  What is next step, exactly?
+
+* Passing students who are exceptional during practice PT
+During the practice PT, you will occasionally run into a student or students who are clearly competent at the level we need them to be.  If you have someone like that, you have the authority to take them aside, explain that you feel their performance was very good and offer them the certification without needing to return for an official PT.  Take care:  to offer but be sure to ask them if they feel as confident.  If they don't, they should return for a formal PT.  Also, take into consideration the mix of students you have on the boat.  If you are worried that if one student is certified early there will be hard feelings among the other students, stay the course and have everyone come back for the normal Practical Test.  However, if the other students recognized their own weaknesses and you have a sense that all would agree with your decision, then move ahead to certify the exceptional student.
+
+1700
+Bring students upstairs for the course wrap-up. While they are filing upstairs, check in with the Club manager for the day and de-brief him/her.  Who's ready, who needs more work and in what areas, everyone happy, satisfied or is someone frustrated?   Offer them drinks and stay with them until the Club manager arrives, then introduce them.  Thank them for sailing with you, and take your leave.
+In classes with more than one boat, try as much as possible to coordinate with the other boats so that the wrap-ups can take place on time and at the same time.
+
+Complete your class cards for each student and file.   What you communicated to each student should be duplicated on the card so that both the student and the next instructor have the same focus in any subsequent reviews.  Be sure to specifically identify on the card if someone is ready to simply do the Practical Test, or needs some review first and clearly detail specific aspects of their sailing skills, learning styles, and any problems they have which will be of use to the next instructor.
+
+1715 END OF BC 2
+
+III. Day Five of BC Week
+During the five-day course, you may have the same students on Friday that you had on Wednesday and Thursday.  As you go through the first two days, be thinking about how you can best use Friday to your students' advantage.  That will depend on the weather, their skills and aptitudes and other factors.  Your responsibility is to make sure that you evaluate their skills and abilities to keep themselves, their crew and their boats safe.  There are some maneuvers that are on the Practical Test form that may be learned and demonstrated dependably by your students before Friday Afternoon.  
+Friday afternoon is ostensibly the PT, but, if you have above the curve students and they have fully demonstrated certain skills during the time you have had them, you are under no obligation to have the students repeat those maneuvers Friday afternoon.  Use that time for getting other skills better; or, if all students are where we want them, and their PTs are complete, then use the time to do some fun maneuvers, like sailing around the breakwater or sailing backwards, or more close quarters sailing in the marina.
+
+BC II Manual -  page 1
+rev 6.23.02 
+Jepsen, Wichmann, Macleod, Shull, Rawlings
